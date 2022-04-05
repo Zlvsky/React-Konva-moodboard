@@ -21,20 +21,20 @@
 
 <h3>Adding local images to canvas</h3>
 <p></p>
-![1addingImages](https://user-images.githubusercontent.com/45123514/161825740-a02a1abc-ba19-4369-b43c-12ec06ec24d3.gif)
+<img src="https://user-images.githubusercontent.com/45123514/161825740-a02a1abc-ba19-4369-b43c-12ec06ec24d3.gif" />
 <br/>
 <h3>Changing background of canvas</h3>
 <p></p>
-![2addingBackground](https://user-images.githubusercontent.com/45123514/161825812-db3e0770-3a88-4cf7-a0bb-dea89abe2087.gif)
+<img src="https://user-images.githubusercontent.com/45123514/161825812-db3e0770-3a88-4cf7-a0bb-dea89abe2087.gif" />
 <h3>Uploading custom images</h3>
 <p></p>
-![3uploadingImages](https://user-images.githubusercontent.com/45123514/161825885-fb48e6fd-2750-4b09-9c75-9ef448710ee0.gif)
+<img src="https://user-images.githubusercontent.com/45123514/161825885-fb48e6fd-2750-4b09-9c75-9ef448710ee0.gif" />
 <h3>Exporting canvas to image</h3>
 <p></p>
-![4exportingCanvas](https://user-images.githubusercontent.com/45123514/161825938-b42c0a1c-4a0a-42d5-9c82-b64049b2b0c5.gif)
+<img src="https://user-images.githubusercontent.com/45123514/161825938-b42c0a1c-4a0a-42d5-9c82-b64049b2b0c5.gif" />
 <h3>Responsive showcase</h3>
 <p></p>
-![5responsiveShowcase](https://user-images.githubusercontent.com/45123514/161825975-fb405e40-89c4-406e-87a7-ede33c8ceb34.gif)
+<img src="https://user-images.githubusercontent.com/45123514/161825975-fb405e40-89c4-406e-87a7-ede33c8ceb34.gif" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -43,7 +43,7 @@
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* ![react-konva](https://user-images.githubusercontent.com/45123514/161826186-2bcb48e8-10b2-4995-8b96-4fdbf79c860e.png)
+* [React-Konva](https://konvajs.org/docs/react/index.html)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
