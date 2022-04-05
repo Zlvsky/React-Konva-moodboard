@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Kakashi",
+    "elementCategory": "photos",
+    "photoCategory": "anime",
+    "source": "images/kakashi.png"
+  },
+  {
+    "name": "Anime cat",
+    "elementCategory": "photos",
+    "photoCategory": "anime",
+    "source": "images/animecat.png"
+  },
+  {
+    "name": "Cat",
+    "elementCategory": "photos",
+    "photoCategory": "animals",
+    "source": "images/cat.png"
+  },
+  {
+    "name": "Tyler",
+    "elementCategory": "photos",
+    "photoCategory": "people",
+    "source": "images/tyler.png"
+  },
+  {
+    "name": "Testing ASAP Rocky",
+    "elementCategory": "photos",
+    "photoCategory": "other",
+    "source": "images/testing.png"
+  },
+  {
+    "name": "Background",
+    "elementCategory": "backgrounds",
+    "source": "images/background1.jpg"
+  },
+  {
+    "name": "AWGE",
+    "elementCategory": "photos",
+    "photoCategory": "other",
+    "source": "images/awge.png"
+  }
+]
