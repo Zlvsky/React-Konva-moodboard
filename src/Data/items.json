@@ -30,9 +30,43 @@
     "source": "images/testing.png"
   },
   {
+    "name": "Levi Ackerman",
+    "elementCategory": "photos",
+    "photoCategory": "anime",
+    "source": "images/levi.png"
+  },
+  {
+    "name": "Kanye West",
+    "elementCategory": "photos",
+    "photoCategory": "people",
+    "source": "images/kanye.png"
+  },
+  {
+    "name": "Eyes",
+    "elementCategory": "photos",
+    "photoCategory": "other",
+    "source": "images/eyes.png"
+  },
+  {
+    "name": "Doge",
+    "elementCategory": "photos",
+    "photoCategory": "animals",
+    "source": "images/doge.png"
+  },
+  {
     "name": "Background",
     "elementCategory": "backgrounds",
     "source": "images/background1.jpg"
+  },
+  {
+    "name": "Background2",
+    "elementCategory": "backgrounds",
+    "source": "images/background2.jpg"
+  },
+  {
+    "name": "Background3",
+    "elementCategory": "backgrounds",
+    "source": "images/background3.jpg"
   },
   {
     "name": "AWGE",
