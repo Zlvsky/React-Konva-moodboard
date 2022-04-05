@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/Zlvsky/React-Konva-moodboard">
-    <img src="https://user-images.githubusercontent.com/45123514/161823611-5c0fdd2c-f2ba-4dfc-ad8d-48a141676325.png" alt="Logo" width="200" height="70">
+    <img src="https://user-images.githubusercontent.com/45123514/161823611-5c0fdd2c-f2ba-4dfc-ad8d-48a141676325.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">React Konva Moodboard</h3>
