@@ -1,3 +1,4 @@
+<div id="top"></div>
 
 <div align="center">
   <a href="https://github.com/Zlvsky/React-Konva-moodboard">
@@ -26,17 +27,21 @@
 <p>Images can be uploaded to Konva stage via drag and drop or by clicking them.</p>
 <img src="https://user-images.githubusercontent.com/45123514/161825740-a02a1abc-ba19-4369-b43c-12ec06ec24d3.gif" />
 <br/>
+
 <h3>Changing background of canvas</h3>
 <p>React-Konva way of adding background is by creating "Rect" component at the very bottom of the elements and filling it with image</p>
 <img src="https://user-images.githubusercontent.com/45123514/161825812-db3e0770-3a88-4cf7-a0bb-dea89abe2087.gif" />
+
 <h3>Uploading custom images</h3>
 <p>Application support custom uploaded images from local drive</p>
 <p>Uploaded images are stored in localStorage of the browser</p>
 <p>Because react renders were clearing images when tab was switched</p>
 <img src="https://user-images.githubusercontent.com/45123514/161825885-fb48e6fd-2750-4b09-9c75-9ef448710ee0.gif" />
+
 <h3>Exporting canvas to image</h3>
 <p>Canvas image can be easilly exported to an image</p>
 <img src="https://user-images.githubusercontent.com/45123514/161825938-b42c0a1c-4a0a-42d5-9c82-b64049b2b0c5.gif" />
+
 <h3>Responsive showcase</h3>
 <p>The biggest problem I had to deal with, was making Konva stage responsive</p>
 <p>The problem was to keep canvas size synchronized with it's bitmap aswell with scale of images</p>
